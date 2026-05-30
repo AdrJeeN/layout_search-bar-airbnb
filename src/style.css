@@ -55,9 +55,9 @@ body {
   padding-left: 60px;
 }
 
-.search--bar__input--big {
+.search-bar__input--big {
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 .search-bar--small {
@@ -68,7 +68,7 @@ body {
   padding-left: 31px;
 }
 
-.search--bar__input--small {
+.search-bar__input--small {
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 300;
 }
